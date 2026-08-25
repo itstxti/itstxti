@@ -1,13 +1,12 @@
 <div align="center"
 
 ```
- _____     _   _                   
-|_   _|_ _| |_(_) __ _ _ __   __ _ 
-  | |/ _` | __| |/ _` | '_ \ / _` |
-  | | (_| | |_| | (_| | | | | (_| |
-  |_|\__,_|\__|_|\__,_|_| |_|\__,_|
-
- > fullstack --engineer --status="always shipping_"
+████████╗ █████╗ ████████╗██╗ █████╗ ███╗   ██╗ █████╗
+╚══██╔══╝██╔══██╗╚══██╔══╝██║██╔══██╗████╗  ██║██╔══██╗
+   ██║   ███████║   ██║   ██║███████║██╔██╗ ██║███████║
+   ██║   ██╔══██║   ██║   ██║██╔══██║██║╚██╗██║██╔══██║
+   ██║   ██║  ██║   ██║   ██║██║  ██║██║ ╚████║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3E+Full-Stack+Software+Engineer;git+log+--oneline+--all;while(true)+%7B+build();+ship();+iterate();+%7D)
