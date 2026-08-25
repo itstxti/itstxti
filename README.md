@@ -25,10 +25,9 @@ $ cat about_me.txt
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  > Information Systems Engineering student              │
-│  > I like building things                               │                                    
-│  > Currently building: TRAVEL VAULT                     │
+│  > I like building things                               │
 │  > Currently learning: Cybersecurity · React            │
-│                                                         │
+│  > Currently building: TRAVEL VAULT                     │
 └─────────────────────────────────────────────────────────┘
 ```
 </div>
