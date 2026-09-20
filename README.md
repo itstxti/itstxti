@@ -13,8 +13,8 @@
 
 <pre>
 $ cat about_me.txt
-```
-```
+</pre>
+<pre>
 ┌─ about_me.txt ─────────────────────────────────┐
 │                                                │
 │  Information Systems Engineering student       │
@@ -23,7 +23,7 @@ $ cat about_me.txt
 │  Building     → TRAVEL VAULT                   │
 │                                                │
 └────────────────────────────────────────────────┘
-```
+</pre>
    
 <pre>
 ```
