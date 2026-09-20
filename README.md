@@ -11,7 +11,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=whoami+%3E+Full+Stack+Engineer;git+log+--oneline+--all;git+status+%3E+building+software;while(true)+%7B+build()+%7D)
 
-```
+<pre>
 $ cat about_me.txt
 ```
 ```
@@ -24,10 +24,12 @@ $ cat about_me.txt
 │                                                │
 └────────────────────────────────────────────────┘
 ```
-
+   
+<pre>
 ```
 $ ls -la ./stack/
 ```
+</pre>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
