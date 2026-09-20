@@ -11,10 +11,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=whoami+%3E+Full+Stack+Engineer;git+log+--oneline+--all;git+status+%3E+building+software;while(true)+%7B+build()+%7D)
 
-```bash
+```
 $ cat about_me.txt
 ```
-```text
+```
 ┌─ about_me.txt ─────────────────────────────────┐
 │                                                │
 │  Information Systems Engineering student       │
@@ -25,7 +25,7 @@ $ cat about_me.txt
 └────────────────────────────────────────────────┘
 ```
 
-```bash
+```
 $ ls -la ./stack/
 ```
 
