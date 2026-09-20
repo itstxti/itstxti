@@ -54,14 +54,20 @@ $ ls -la ./stack/
 </div>
 
 <div align="center">
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itstxti/itstxti/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itstxti/itstxti/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/itstxti/itstxti/output/github-snake.svg">
+</picture>
+</div>
+
+<div align="center">
+
+<div align="center">
 
 ```bash
 $ curl -s api.contact.me | jq
 ```
-</div>
-
-<div align="center">
 
 ```json
 {
@@ -69,16 +75,5 @@ $ curl -s api.contact.me | jq
   "linkedin": "linkedin.com/in/tatiana-garcia-vergara",
 }
 ```
-
 </div>
 
-<br>
-
-<div align="center">
-
-```
-> process exited with code 0
-> connection closed by remote host
-```
-
-</div>
