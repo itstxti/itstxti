@@ -14,6 +14,7 @@
 <pre>
 $ cat about_me.txt
 </pre>
+
 <pre>
 ┌─ about_me.txt ─────────────────────────────────┐
 │                                                │
@@ -26,9 +27,7 @@ $ cat about_me.txt
 </pre>
    
 <pre>
-```
 $ ls -la ./stack/
-```
 </pre>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
