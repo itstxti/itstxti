@@ -26,4 +26,4 @@ jobs:
           build_dir: dist
           target_branch: output
         env:
-          GH_PAT: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
