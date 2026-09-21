@@ -15,17 +15,9 @@
 $ cat about_me.txt
 </pre>
 
-<pre>
-┌─ about_me.txt ─────────────────────────────────┐
-│                                                │
-│  Information Systems Engineering student       │
-│  I like building things                        │
-│  Learning     → Cybersecurity · React          │
-│  Building     → TRAVEL VAULT                   │
-│                                                │
-└────────────────────────────────────────────────┘
-</pre>
-   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=550&height=140&lines=I'm+an+Information+Systems+Engineering+student+;passionate+about+software+development.+I+enjoy;working+building+practical+projects+while;continuously+exploring+new+technologies+and+;improving+my+skills+through+hands-on+projects.)](https://git.io/typing-svg)
+
+<br>
 <pre>
 $ ls -la ./stack/
 </pre>
